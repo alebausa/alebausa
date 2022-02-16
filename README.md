@@ -1,16 +1,17 @@
 ### Hi there 👋
 
-<!--
-**alebausa/alebausa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is **Ale Bausá** and I currently:
 
-Here are some ideas to get you started:
+- 💻 Work as a freelance
+- 🎨 Love designing web & app interfaces
+- 🪄 Love programming and developing
+- 🎐 Am lucky enough to be a teacher for all these things
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I love:
+- 🦮  My dogs
+- 🎲  Boardgames
+- 🎬  Films & soap operas 
+
+*(I know, pretty wild)*
+
+Whatever you need, feel free to contact me at info@alebausa.com.
